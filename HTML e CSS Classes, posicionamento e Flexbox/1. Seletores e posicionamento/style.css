@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: black ;
+    color: #ffff;
+}
+
+.titulo-blog {
+    color: darkcyan;
+}
+
+.titulo-destaque {
+    color: #22D4FD;
+}
+
+.texto-destaque {
+    color: dodgerblue;
+}
+
+.urgente {
+    color: red;
+    margin: 15px;
+    border: 0px solid black;
+    padding: 5px;
+    content: 0px;
+}
