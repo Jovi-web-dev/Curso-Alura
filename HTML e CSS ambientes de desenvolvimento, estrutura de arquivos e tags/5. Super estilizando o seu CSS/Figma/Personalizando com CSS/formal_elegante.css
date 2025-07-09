@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    color: black;
+}
+
+header h1 {
+    color:  darkblue;
+}
+
+main p {
+    color: darkslategray;
+}
+
+footer h2 {
+    color: darkslateblue;
+}
+
+footer a {
+    background-color: lightblue;
+    color: darkslateblue;
+}

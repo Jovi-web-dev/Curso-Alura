@@ -1,0 +1,31 @@
+body {
+    background-color: black ;
+    color: #ffff;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+span {
+    color: deepskyblue;
+    border: 1px solid deepskyblue;
+            padding: 10px;
+}
+
+p strong {
+    color: deepskyblue;
+}
+
+
+
+
+img {
+    height: 532px;
+    width: 467.71px;
+    border-radius: 16px;
+    opacity: 100%;
+    stroke: 100%, #000000;
+    stroke-width: 1px;
+    
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+    color: black;
+}
+
+header h1 {
+    color:  darkgoldenrod;
+}
+
+main p {
+    color: chocolate;
+}
+
+footer h2 {
+    color: lightsalmon;
+}
+
+footer a {
+    background-color: azure;
+    color: darkgoldenrod;
+}
